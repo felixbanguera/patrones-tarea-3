@@ -64,3 +64,9 @@ classDiagram
 - **D (Dependency Inversion):** `ServiceRequest` depende de la interfaz `IRequestSubscriber`.
 
 ### Como correr el codigo:
+
+```
+cd src
+javac *.java
+java Main
+```

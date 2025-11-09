@@ -58,3 +58,9 @@ classDiagram
 - **D (Dependency Inversion):** `TechnicianSearchService` depende de la abstracción `ISortingStrategy`.
 
 ### Como correr el código:
+
+```
+cd src
+javac *.java
+java Main
+```
